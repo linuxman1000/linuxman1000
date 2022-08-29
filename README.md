@@ -33,6 +33,7 @@ The well used pen in good hand is the subtotal of one's scholarly practices - Mi
   <li>Linux</li>
   <li>Kubernetes (I'm working toward a K8s certification)</li>
   <li>Docker</li>
+  <li>Kubernetes (a.k.a. K8s)</li>
   <li>Git</li>
   <li>Python</li>
   <li>Career Management</li>
