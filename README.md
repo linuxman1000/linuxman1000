@@ -15,7 +15,7 @@ The well used pen in good hand is the subtotal of one's scholarly practices - Mi
 @linuxman1000
 
 ---
-### 👀 I’m interested in:
+### 👀 Interests:
 <ul>
   <li>Linux</li>
   <li>Git</li>
@@ -24,18 +24,18 @@ The well used pen in good hand is the subtotal of one's scholarly practices - Mi
   <li>Ansible</li>
   <li>Kubernetes</li>
   <li>Docker</li>
-  <li>cri-o</li>
+  <li>Ceph</li>
   <li>Python</li>
 </ul>
 
 ### 🌱 I’m currently learning:
 <ul>
   <li>Linux</li>
-  <li>Kubernetes (I'm working toward a K8s certification)</li>
+  <li>Kubernetes</li>
   <li>Docker</li>
-  <li>Kubernetes (a.k.a. K8s)</li>
   <li>Git</li>
   <li>Python</li>
+  <li>Ceph</li>
   <li>Career Management</li>
 </ul>
 
